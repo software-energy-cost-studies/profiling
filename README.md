@@ -25,6 +25,13 @@ py-spy top -- python3 baler.py --mode compress --project profile cpu
 py-spy top -- python3 baler.py --mode decompress --project profile cpu
 ```
 
+### Run the torch profiler:
+```
+with profile(activities=[ProfilerActivity.CPU], record_shapes=True) as prof:
+    with record_function("model_inference"):
+        model(inputs)er
+```
+
 
 
 ### GPU profilers:
