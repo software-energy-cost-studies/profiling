@@ -7,11 +7,11 @@ This repository contains the list of instructions and results for profiling of b
 #### Profiling using cProfile
 ```
 python3 -m cProfile -o cProfile_train.prof  baler.py --mode train --project profile cpu
-python3 -m cProfile -o cProfile_train.prof  baler.py --mode compress --project profile cpu
-python3 -m cProfile -o cProfile_train.prof  baler.py --mode decompress --project profile cpu
+python3 -m cProfile -o cProfile_compress.prof  baler.py --mode compress --project profile cpu
+python3 -m cProfile -o cProfile_decompress.prof  baler.py --mode decompress --project profile cpu
 ```
 
-#### Scalene provides the easy to read the report about the CPU, GPU, memory, and counts (number of memory-expensive operations that appears during copying objects 
+#### Scalene provides the easy to read report about the CPU, GPU, memory, and counts (number of memory-expensive operations that appears during copying objects 
 ```
 scalene --cpu --gpu --memory baler.py --mode train --project profile cpu
 scalene --cpu --gpu --memory baler.py --mode compress --project profile cpu
@@ -31,8 +31,6 @@ with profile(activities=[ProfilerActivity.CPU], record_shapes=True) as prof:
     with record_function("model_inference"):
         model(inputs)er
 ```
-
-
 
 ### GPU profilers:
 1. [experiment-impact-tracker](https://github.com/Breakend/experiment-impact-tracker)
