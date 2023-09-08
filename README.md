@@ -26,22 +26,43 @@ py-spy top -- python3 baler.py --mode decompress --project profile cpu
 ```
 
 ### Run the torch profiler:
+Installation:
 ```
-with profile(activities=[ProfilerActivity.CPU], record_shapes=True) as prof:
-    with record_function("model_inference"):
-        model(inputs)er
+pip install torch_tb_profiler
+```
+
+In code:
+```
+prof = torch.profiler.profile(
+        schedule=torch.profiler.schedule(wait=1, warmup=1, active=3, repeat=2),
+        on_trace_ready=torch.profiler.tensorboard_trace_handler('./log/baler'),
+        record_shapes=True,
+        with_stack=True)
+prof.start()
+#The training code here
+#.....................
+prof.stop()
+```
+
+In order to see the traced results of the profiler:
+```
+tensorboard --logdir=./log
 ```
 
 ### GPU profilers:
 1. [experiment-impact-tracker](https://github.com/Breakend/experiment-impact-tracker)
 2. [scalene](https://github.com/plasma-umass/scalene)
+3. [PyProf](https://github.com/adityaiitb/PyProf)
+4. [Nvidia Nsight]()
+5. [Nvidia-DLProf](https://docs.nvidia.com/deeplearning/frameworks/dlprof-user-guide/)
 
 ### List of the framework for energy cost estimation:
 1. [boagent](https://github.com/Boavizta/boagent)
 2. [powermeter](https://github.com/autoai-incubator/powermeter)
 3. [powerjoular](https://gitlab.com/joular/powerjoular)
 4. [scaphandre](https://github.com/hubblo-org/scaphandre)
-5. [AIPowerMeter](https://github.com/GreenAI-Uppa/AIPowerMeter)
+   Scaphandre installation (https://hubblo-org.github.io/scaphandre-documentation/index.html)
+6. [AIPowerMeter](https://github.com/GreenAI-Uppa/AIPowerMeter)
 
 
 ### List of the framework for C02 emissions estimation:
