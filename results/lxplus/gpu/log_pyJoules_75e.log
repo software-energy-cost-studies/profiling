@@ -1,0 +1,474 @@
+Normalizing the data...
+Dev:  cuda:0
+Device:  cuda:0
+Dev:  cuda:0
+Device:  cuda:0
+Epoch 1 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.035388
+begin timestamp : 1693948360.1359148; tag : fit; duration : 4.728440999984741; nvidia_gpu_0 : 209046
+Epoch 2 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.010005
+begin timestamp : 1693948364.8667934; tag : fit; duration : 4.5918073654174805; nvidia_gpu_0 : 211177
+Epoch 3 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.007829
+begin timestamp : 1693948369.4609885; tag : fit; duration : 4.585397481918335; nvidia_gpu_0 : 207590
+Epoch 4 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.011035
+begin timestamp : 1693948374.0488555; tag : fit; duration : 4.58461332321167; nvidia_gpu_0 : 213263
+Epoch 5 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.005710
+begin timestamp : 1693948378.63587; tag : fit; duration : 4.585941791534424; nvidia_gpu_0 : 209486
+Epoch 6 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.004953
+begin timestamp : 1693948383.2252245; tag : fit; duration : 4.585054397583008; nvidia_gpu_0 : 209933
+Epoch 7 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.004585
+begin timestamp : 1693948387.8127043; tag : fit; duration : 4.579051733016968; nvidia_gpu_0 : 215665
+Epoch 8 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.003760
+begin timestamp : 1693948392.3941622; tag : fit; duration : 4.579457998275757; nvidia_gpu_0 : 211622
+Epoch 9 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.002816
+begin timestamp : 1693948396.9760098; tag : fit; duration : 4.595869779586792; nvidia_gpu_0 : 216939
+Epoch 10 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.003853
+begin timestamp : 1693948401.5742755; tag : fit; duration : 4.591333389282227; nvidia_gpu_0 : 217871
+Epoch 11 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.003053
+begin timestamp : 1693948406.168031; tag : fit; duration : 4.58880615234375; nvidia_gpu_0 : 218884
+Epoch 12 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.002490
+begin timestamp : 1693948410.7605338; tag : fit; duration : 4.587506532669067; nvidia_gpu_0 : 214527
+Epoch 13 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.003267
+begin timestamp : 1693948415.3504472; tag : fit; duration : 4.58713960647583; nvidia_gpu_0 : 219980
+Epoch 14 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.005563
+begin timestamp : 1693948419.940984; tag : fit; duration : 4.587972402572632; nvidia_gpu_0 : 220712
+Epoch 15 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.003634
+begin timestamp : 1693948424.531361; tag : fit; duration : 4.5780274868011475; nvidia_gpu_0 : 218402
+Epoch 16 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.002049
+begin timestamp : 1693948429.1118033; tag : fit; duration : 4.595974445343018; nvidia_gpu_0 : 223838
+Epoch 17 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.001641
+begin timestamp : 1693948433.711347; tag : fit; duration : 4.577744960784912; nvidia_gpu_0 : 224425
+Epoch 18 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.001537
+begin timestamp : 1693948438.2915163; tag : fit; duration : 4.58234715461731; nvidia_gpu_0 : 220006
+Epoch 19 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.001452
+begin timestamp : 1693948442.8763282; tag : fit; duration : 4.583990812301636; nvidia_gpu_0 : 225292
+Epoch 20 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.001801
+begin timestamp : 1693948447.462771; tag : fit; duration : 4.571908473968506; nvidia_gpu_0 : 225759
+Epoch 21 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.001998
+begin timestamp : 1693948452.0371153; tag : fit; duration : 4.576903581619263; nvidia_gpu_0 : 221244
+Epoch 22 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.001735
+begin timestamp : 1693948456.616486; tag : fit; duration : 4.589799642562866; nvidia_gpu_0 : 226222
+Early stopping counter 1 of 100
+Epoch 23 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.003108
+begin timestamp : 1693948461.20876; tag : fit; duration : 4.588039875030518; nvidia_gpu_0 : 226634
+Epoch 24 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.001672
+begin timestamp : 1693948465.7992148; tag : fit; duration : 4.585321426391602; nvidia_gpu_0 : 221992
+Epoch 25 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.001853
+begin timestamp : 1693948470.3870683; tag : fit; duration : 4.58183479309082; nvidia_gpu_0 : 227263
+Epoch 26 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.001150
+begin timestamp : 1693948474.9713178; tag : fit; duration : 4.581179618835449; nvidia_gpu_0 : 227705
+Epoch 27 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.002358
+begin timestamp : 1693948479.554854; tag : fit; duration : 4.573376178741455; nvidia_gpu_0 : 222958
+Epoch 28 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.001432
+begin timestamp : 1693948484.1306458; tag : fit; duration : 4.580503225326538; nvidia_gpu_0 : 227732
+Epoch 29 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.001046
+begin timestamp : 1693948488.713576; tag : fit; duration : 4.587310075759888; nvidia_gpu_0 : 222925
+Epoch 30 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.001497
+begin timestamp : 1693948493.3050737; tag : fit; duration : 4.588200807571411; nvidia_gpu_0 : 228043
+Epoch 31 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.001134
+begin timestamp : 1693948497.8957305; tag : fit; duration : 4.600353240966797; nvidia_gpu_0 : 227984
+Early stopping counter 1 of 100
+Epoch 32 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.003105
+begin timestamp : 1693948502.4985902; tag : fit; duration : 4.6330671310424805; nvidia_gpu_0 : 227842
+Epoch 33 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.000607
+begin timestamp : 1693948507.1340818; tag : fit; duration : 4.581000804901123; nvidia_gpu_0 : 228509
+Early stopping counter 1 of 100
+Epoch 34 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.000686
+begin timestamp : 1693948511.7174938; tag : fit; duration : 4.589012384414673; nvidia_gpu_0 : 228732
+Epoch 35 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.000959
+begin timestamp : 1693948516.309036; tag : fit; duration : 4.585421323776245; nvidia_gpu_0 : 223883
+Epoch 36 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.000914
+begin timestamp : 1693948520.896945; tag : fit; duration : 4.5915186405181885; nvidia_gpu_0 : 228750
+Epoch 37 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.001266
+begin timestamp : 1693948525.4908862; tag : fit; duration : 4.588793516159058; nvidia_gpu_0 : 228827
+Epoch 38 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.000493
+begin timestamp : 1693948530.0820947; tag : fit; duration : 4.589559316635132; nvidia_gpu_0 : 223891
+Epoch 39 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.001861
+begin timestamp : 1693948534.6740894; tag : fit; duration : 4.585830926895142; nvidia_gpu_0 : 228810
+Epoch 40 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.000561
+begin timestamp : 1693948539.2623358; tag : fit; duration : 4.587684869766235; nvidia_gpu_0 : 228841
+Epoch 41 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.000550
+begin timestamp : 1693948543.852442; tag : fit; duration : 4.587380886077881; nvidia_gpu_0 : 224195
+Epoch 42 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.002072
+begin timestamp : 1693948548.4422574; tag : fit; duration : 4.58278226852417; nvidia_gpu_0 : 228907
+Epoch 43 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.000760
+begin timestamp : 1693948553.0274677; tag : fit; duration : 4.585265636444092; nvidia_gpu_0 : 228959
+Epoch 44 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.001708
+begin timestamp : 1693948557.6151297; tag : fit; duration : 4.588090181350708; nvidia_gpu_0 : 224009
+Epoch 45 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.000722
+begin timestamp : 1693948562.2056062; tag : fit; duration : 4.592768907546997; nvidia_gpu_0 : 223833
+Epoch 46 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.003800
+begin timestamp : 1693948566.8012853; tag : fit; duration : 4.580734729766846; nvidia_gpu_0 : 229032
+Early stopping counter 1 of 100
+Epoch 47 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.002989
+begin timestamp : 1693948571.3844423; tag : fit; duration : 4.574745178222656; nvidia_gpu_0 : 223972
+Early stopping counter 2 of 100
+Epoch 48 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.003718
+begin timestamp : 1693948575.96289; tag : fit; duration : 4.582302570343018; nvidia_gpu_0 : 228939
+Early stopping counter 3 of 100
+Epoch 49 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.004413
+begin timestamp : 1693948580.5476117; tag : fit; duration : 4.59837794303894; nvidia_gpu_0 : 228765
+Epoch 50 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.000942
+begin timestamp : 1693948585.1483994; tag : fit; duration : 4.583953142166138; nvidia_gpu_0 : 228942
+Early stopping counter 1 of 100
+Epoch 51 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.000612
+begin timestamp : 1693948589.7347531; tag : fit; duration : 4.585115909576416; nvidia_gpu_0 : 223741
+Epoch 52 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.000810
+begin timestamp : 1693948594.3224988; tag : fit; duration : 4.577132225036621; nvidia_gpu_0 : 228894
+Early stopping counter 1 of 100
+Epoch 53 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.004240
+begin timestamp : 1693948598.9020875; tag : fit; duration : 4.5741565227508545; nvidia_gpu_0 : 228989
+Epoch 54 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.001169
+begin timestamp : 1693948603.478605; tag : fit; duration : 4.5796589851379395; nvidia_gpu_0 : 223915
+Early stopping counter 1 of 100
+Epoch 55 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.001232
+begin timestamp : 1693948608.0614355; tag : fit; duration : 4.586658477783203; nvidia_gpu_0 : 229012
+Epoch 56 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.003071
+begin timestamp : 1693948612.6505418; tag : fit; duration : 4.586227655410767; nvidia_gpu_0 : 224360
+Epoch 57 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.002011
+begin timestamp : 1693948617.2391725; tag : fit; duration : 4.582545518875122; nvidia_gpu_0 : 228957
+Early stopping counter 1 of 100
+Epoch 58 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.000722
+begin timestamp : 1693948621.8241673; tag : fit; duration : 4.591561794281006; nvidia_gpu_0 : 228915
+Epoch 59 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.000569
+begin timestamp : 1693948626.4181445; tag : fit; duration : 4.573853492736816; nvidia_gpu_0 : 224062
+Epoch 60 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.001092
+begin timestamp : 1693948630.9944274; tag : fit; duration : 4.573208332061768; nvidia_gpu_0 : 228916
+Epoch 61 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.000525
+begin timestamp : 1693948635.5722513; tag : fit; duration : 4.584380626678467; nvidia_gpu_0 : 228952
+Epoch 62 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.000839
+begin timestamp : 1693948640.1590436; tag : fit; duration : 4.593916654586792; nvidia_gpu_0 : 228668
+Epoch 63 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.001207
+begin timestamp : 1693948644.7553685; tag : fit; duration : 4.568373203277588; nvidia_gpu_0 : 224127
+Early stopping counter 1 of 100
+Epoch 64 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.000564
+begin timestamp : 1693948649.326834; tag : fit; duration : 4.573184013366699; nvidia_gpu_0 : 229094
+Early stopping counter 2 of 100
+Epoch 65 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.003825
+begin timestamp : 1693948653.9024372; tag : fit; duration : 4.562986850738525; nvidia_gpu_0 : 224268
+Epoch 66 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.001034
+begin timestamp : 1693948658.4678686; tag : fit; duration : 4.565156936645508; nvidia_gpu_0 : 229006
+Early stopping counter 1 of 100
+Epoch 67 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.000690
+begin timestamp : 1693948663.035472; tag : fit; duration : 4.5728840827941895; nvidia_gpu_0 : 224013
+Early stopping counter 2 of 100
+Epoch 68 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.002702
+begin timestamp : 1693948667.6107626; tag : fit; duration : 4.579493999481201; nvidia_gpu_0 : 228997
+Epoch 69 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.000820
+begin timestamp : 1693948672.192685; tag : fit; duration : 4.5742223262786865; nvidia_gpu_0 : 223966
+Early stopping counter 1 of 100
+Epoch 70 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.002427
+begin timestamp : 1693948676.7696192; tag : fit; duration : 4.5766448974609375; nvidia_gpu_0 : 229268
+Epoch 71 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.001556
+begin timestamp : 1693948681.3486474; tag : fit; duration : 4.580691337585449; nvidia_gpu_0 : 229112
+Early stopping counter 1 of 100
+Epoch 72 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.001999
+begin timestamp : 1693948685.9317305; tag : fit; duration : 4.568734169006348; nvidia_gpu_0 : 224017
+Epoch 73 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.000789
+begin timestamp : 1693948690.5028985; tag : fit; duration : 4.570552825927734; nvidia_gpu_0 : 229125
+Early stopping counter 1 of 100
+Epoch 74 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.001672
+begin timestamp : 1693948695.0758073; tag : fit; duration : 4.579875707626343; nvidia_gpu_0 : 224030
+Early stopping counter 2 of 100
+Epoch 75 of 75
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.001555
+begin timestamp : 1693948699.6596904; tag : fit; duration : 4.596391201019287; nvidia_gpu_0 : 228719
+5.74 minutes

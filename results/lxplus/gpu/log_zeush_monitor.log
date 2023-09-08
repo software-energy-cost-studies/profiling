@@ -1,0 +1,993 @@
+Normalizing the data...
+Dev:  cuda:0
+Device:  cuda:0
+Dev:  cuda:0
+Device:  cuda:0
+[2023-09-06 05:12:37,623] [ZeusMonitor](energy.py:157) Monitoring GPU [0].
+Epoch 1 of 100
+[2023-09-06 05:12:37,623] [zeus.util.framework](framework.py:38) PyTorch with CUDA support is available.
+[2023-09-06 05:12:37,628] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.046001
+begin timestamp : 1693969957.6283162; tag : fit; duration : 9.67132568359375; nvidia_gpu_0 : 344750
+[2023-09-06 05:12:47,304] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 0 consumed 9.678149461746216 s and 344.75 J.
+Normalizing the data...
+Dev:  cuda:0
+Device:  cuda:0
+Dev:  cuda:0
+Device:  cuda:0
+[2023-09-06 05:22:45,977] [ZeusMonitor](energy.py:157) Monitoring GPU [0].
+Epoch 1 of 100
+[2023-09-06 05:22:45,995] [zeus.util.framework](framework.py:38) PyTorch with CUDA support is available.
+[2023-09-06 05:22:45,999] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.049634
+begin timestamp : 1693970565.9994156; tag : fit; duration : 7.170520305633545; nvidia_gpu_0 : 271635
+[2023-09-06 05:22:53,174] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Normalizing the data...
+Dev:  cuda:0
+Device:  cuda:0
+Dev:  cuda:0
+Device:  cuda:0
+[2023-09-06 05:28:14,842] [ZeusMonitor](energy.py:157) Monitoring GPU [0].
+Epoch 1 of 100
+[2023-09-06 05:28:14,843] [zeus.util.framework](framework.py:38) PyTorch with CUDA support is available.
+[2023-09-06 05:28:14,848] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.046219
+begin timestamp : 1693970894.8487537; tag : fit; duration : 6.65252161026001; nvidia_gpu_0 : 258148
+[2023-09-06 05:28:21,505] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 0 consumed 6.659839630126953 s and 258.14800000000014 J.
+Normalizing the data...
+Dev:  cuda:0
+Device:  cuda:0
+Dev:  cuda:0
+Device:  cuda:0
+[2023-09-06 05:32:01,390] [ZeusMonitor](energy.py:157) Monitoring GPU [0].
+Epoch 1 of 100
+[2023-09-06 05:32:01,390] [zeus.util.framework](framework.py:38) PyTorch with CUDA support is available.
+[2023-09-06 05:32:01,395] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.040803
+begin timestamp : 1693971121.395102; tag : fit; duration : 4.763078212738037; nvidia_gpu_0 : 207961
+[2023-09-06 05:32:06,162] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 0 consumed 4.769863605499268 s and 207.961 J.
+Epoch 2 of 100
+[2023-09-06 05:32:06,165] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.010465
+begin timestamp : 1693971126.1651044; tag : fit; duration : 4.6133201122283936; nvidia_gpu_0 : 206735
+[2023-09-06 05:32:10,783] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 1 consumed 4.617980480194092 s and 206.73499999999996 J.
+Epoch 3 of 100
+[2023-09-06 05:32:10,785] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.006519
+begin timestamp : 1693971130.7853224; tag : fit; duration : 4.612248659133911; nvidia_gpu_0 : 207551
+[2023-09-06 05:32:15,402] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 2 consumed 4.616809129714966 s and 207.55100000000004 J.
+Epoch 4 of 100
+[2023-09-06 05:32:15,404] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.005210
+begin timestamp : 1693971135.4044173; tag : fit; duration : 4.614229440689087; nvidia_gpu_0 : 208476
+[2023-09-06 05:32:20,023] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 3 consumed 4.618828535079956 s and 208.476 J.
+Epoch 5 of 100
+[2023-09-06 05:32:20,025] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.005777
+begin timestamp : 1693971140.0255423; tag : fit; duration : 4.671588897705078; nvidia_gpu_0 : 208577
+[2023-09-06 05:32:24,704] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 4 consumed 4.676203727722168 s and 208.577 J.
+Epoch 6 of 100
+[2023-09-06 05:32:24,706] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.004824
+begin timestamp : 1693971144.7066042; tag : fit; duration : 4.628987073898315; nvidia_gpu_0 : 214388
+[2023-09-06 05:32:29,340] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 5 consumed 4.633620977401733 s and 214.38799999999992 J.
+Epoch 7 of 100
+[2023-09-06 05:32:29,343] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.005143
+begin timestamp : 1693971149.3440197; tag : fit; duration : 4.62069845199585; nvidia_gpu_0 : 210759
+[2023-09-06 05:32:33,969] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 6 consumed 4.626876592636108 s and 210.75900000000001 J.
+Epoch 8 of 100
+[2023-09-06 05:32:33,971] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.003638
+begin timestamp : 1693971153.9715292; tag : fit; duration : 4.618456840515137; nvidia_gpu_0 : 211558
+[2023-09-06 05:32:38,594] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 7 consumed 4.623035430908203 s and 211.558 J.
+Epoch 9 of 100
+[2023-09-06 05:32:38,596] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.003165
+begin timestamp : 1693971158.5968444; tag : fit; duration : 4.615585803985596; nvidia_gpu_0 : 212150
+[2023-09-06 05:32:43,216] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 8 consumed 4.620183229446411 s and 212.14999999999986 J.
+Epoch 10 of 100
+[2023-09-06 05:32:43,219] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.003226
+begin timestamp : 1693971163.2192824; tag : fit; duration : 4.622730493545532; nvidia_gpu_0 : 212729
+[2023-09-06 05:32:47,849] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 9 consumed 4.627378225326538 s and 212.72900000000027 J.
+Epoch 11 of 100
+[2023-09-06 05:32:47,851] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.002629
+begin timestamp : 1693971167.8515697; tag : fit; duration : 4.6304545402526855; nvidia_gpu_0 : 213419
+[2023-09-06 05:32:52,486] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 10 consumed 4.635082483291626 s and 213.41899999999987 J.
+Epoch 12 of 100
+[2023-09-06 05:32:52,490] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.002397
+begin timestamp : 1693971172.4907143; tag : fit; duration : 4.629312515258789; nvidia_gpu_0 : 213710
+[2023-09-06 05:32:57,124] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 11 consumed 4.635730981826782 s and 213.71000000000004 J.
+Epoch 13 of 100
+[2023-09-06 05:32:57,126] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.003172
+begin timestamp : 1693971177.1269107; tag : fit; duration : 4.6258416175842285; nvidia_gpu_0 : 214585
+[2023-09-06 05:33:01,757] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 12 consumed 4.6304216384887695 s and 214.58500000000004 J.
+Epoch 14 of 100
+[2023-09-06 05:33:01,759] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.003722
+begin timestamp : 1693971181.7596738; tag : fit; duration : 4.632382392883301; nvidia_gpu_0 : 219832
+[2023-09-06 05:33:06,398] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 13 consumed 4.637125492095947 s and 219.83199999999988 J.
+Epoch 15 of 100
+[2023-09-06 05:33:06,400] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.002955
+begin timestamp : 1693971186.4007776; tag : fit; duration : 4.625463962554932; nvidia_gpu_0 : 215946
+[2023-09-06 05:33:11,030] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 14 consumed 4.630098581314087 s and 215.9459999999999 J.
+Epoch 16 of 100
+[2023-09-06 05:33:11,033] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.002821
+begin timestamp : 1693971191.0331433; tag : fit; duration : 4.627378225326538; nvidia_gpu_0 : 216410
+[2023-09-06 05:33:15,666] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 15 consumed 4.63198709487915 s and 216.4100000000003 J.
+Epoch 17 of 100
+[2023-09-06 05:33:15,668] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.001734
+begin timestamp : 1693971195.669024; tag : fit; duration : 4.627281188964844; nvidia_gpu_0 : 216848
+[2023-09-06 05:33:20,300] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 16 consumed 4.63193678855896 s and 216.84799999999996 J.
+Epoch 18 of 100
+[2023-09-06 05:33:20,303] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.001343
+begin timestamp : 1693971200.3036997; tag : fit; duration : 4.642411708831787; nvidia_gpu_0 : 217365
+[2023-09-06 05:33:24,951] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 17 consumed 4.648175477981567 s and 217.36499999999978 J.
+Epoch 19 of 100
+[2023-09-06 05:33:24,953] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.002400
+begin timestamp : 1693971204.9536946; tag : fit; duration : 4.618075132369995; nvidia_gpu_0 : 218063
+[2023-09-06 05:33:29,576] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 18 consumed 4.622658014297485 s and 218.06300000000056 J.
+Epoch 20 of 100
+[2023-09-06 05:33:29,578] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.001956
+begin timestamp : 1693971209.5785797; tag : fit; duration : 4.619371652603149; nvidia_gpu_0 : 218642
+[2023-09-06 05:33:34,202] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 19 consumed 4.6239707469940186 s and 218.64199999999983 J.
+Epoch 21 of 100
+[2023-09-06 05:33:34,204] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.001324
+begin timestamp : 1693971214.2048523; tag : fit; duration : 4.621597766876221; nvidia_gpu_0 : 218953
+[2023-09-06 05:33:38,832] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 20 consumed 4.6262125968933105 s and 218.95299999999952 J.
+Epoch 22 of 100
+[2023-09-06 05:33:38,834] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.001439
+begin timestamp : 1693971218.8349893; tag : fit; duration : 4.618160963058472; nvidia_gpu_0 : 219658
+[2023-09-06 05:33:43,458] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 21 consumed 4.622739553451538 s and 224.45800000000054 J.
+Epoch 23 of 100
+[2023-09-06 05:33:43,460] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.001751
+begin timestamp : 1693971223.460928; tag : fit; duration : 4.624342203140259; nvidia_gpu_0 : 221136
+Early stopping counter 1 of 100
+[2023-09-06 05:33:48,089] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 22 consumed 4.628921031951904 s and 221.1359999999995 J.
+Epoch 24 of 100
+[2023-09-06 05:33:48,092] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.001203
+begin timestamp : 1693971228.09211; tag : fit; duration : 4.633160829544067; nvidia_gpu_0 : 222654
+[2023-09-06 05:33:52,729] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 23 consumed 4.637789249420166 s and 222.65400000000045 J.
+Epoch 25 of 100
+[2023-09-06 05:33:52,732] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.001687
+begin timestamp : 1693971232.7321782; tag : fit; duration : 4.619127988815308; nvidia_gpu_0 : 223276
+[2023-09-06 05:33:57,357] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 24 consumed 4.623704433441162 s and 223.27599999999984 J.
+Epoch 26 of 100
+[2023-09-06 05:33:57,360] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.002843
+begin timestamp : 1693971237.360305; tag : fit; duration : 4.620020627975464; nvidia_gpu_0 : 224097
+Early stopping counter 1 of 100
+[2023-09-06 05:34:01,985] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 25 consumed 4.6246912479400635 s and 224.09699999999975 J.
+Epoch 27 of 100
+[2023-09-06 05:34:01,987] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.001857
+begin timestamp : 1693971241.987592; tag : fit; duration : 4.626620292663574; nvidia_gpu_0 : 224296
+[2023-09-06 05:34:06,621] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 26 consumed 4.633476972579956 s and 224.29600000000028 J.
+Epoch 28 of 100
+[2023-09-06 05:34:06,623] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.001244
+begin timestamp : 1693971246.6233685; tag : fit; duration : 4.622055530548096; nvidia_gpu_0 : 224936
+[2023-09-06 05:34:11,250] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 27 consumed 4.6267077922821045 s and 224.9359999999997 J.
+Epoch 29 of 100
+[2023-09-06 05:34:11,252] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.001416
+begin timestamp : 1693971251.2523565; tag : fit; duration : 4.6213905811309814; nvidia_gpu_0 : 225179
+[2023-09-06 05:34:15,878] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 28 consumed 4.625952243804932 s and 225.1790000000001 J.
+Epoch 30 of 100
+[2023-09-06 05:34:15,882] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.005430
+begin timestamp : 1693971255.882187; tag : fit; duration : 4.628111362457275; nvidia_gpu_0 : 225441
+[2023-09-06 05:34:20,514] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 29 consumed 4.634338140487671 s and 225.4409999999998 J.
+Epoch 31 of 100
+[2023-09-06 05:34:20,518] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.001134
+begin timestamp : 1693971260.5181127; tag : fit; duration : 4.635326385498047; nvidia_gpu_0 : 225779
+Early stopping counter 1 of 100
+[2023-09-06 05:34:25,158] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 30 consumed 4.640897750854492 s and 225.77899999999954 J.
+Epoch 32 of 100
+[2023-09-06 05:34:25,162] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.001040
+begin timestamp : 1693971265.162655; tag : fit; duration : 4.622047424316406; nvidia_gpu_0 : 225924
+[2023-09-06 05:34:29,789] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 31 consumed 4.62895655632019 s and 225.92399999999998 J.
+Epoch 33 of 100
+[2023-09-06 05:34:29,791] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.002111
+begin timestamp : 1693971269.7916193; tag : fit; duration : 4.6250739097595215; nvidia_gpu_0 : 226224
+Early stopping counter 1 of 100
+[2023-09-06 05:34:34,421] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 32 consumed 4.629641532897949 s and 226.22400000000016 J.
+Epoch 34 of 100
+[2023-09-06 05:34:34,425] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.001067
+begin timestamp : 1693971274.4256184; tag : fit; duration : 4.620065212249756; nvidia_gpu_0 : 226602
+[2023-09-06 05:34:39,050] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 33 consumed 4.626466989517212 s and 226.60199999999986 J.
+Epoch 35 of 100
+[2023-09-06 05:34:39,052] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.001577
+begin timestamp : 1693971279.053007; tag : fit; duration : 4.619012117385864; nvidia_gpu_0 : 226852
+[2023-09-06 05:34:43,676] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 34 consumed 4.623920440673828 s and 226.85199999999986 J.
+Epoch 36 of 100
+[2023-09-06 05:34:43,678] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.003311
+begin timestamp : 1693971283.678928; tag : fit; duration : 4.6225080490112305; nvidia_gpu_0 : 227213
+Early stopping counter 1 of 100
+[2023-09-06 05:34:48,308] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 35 consumed 4.627151966094971 s and 227.21299999999974 J.
+Epoch 37 of 100
+[2023-09-06 05:34:48,311] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.002510
+begin timestamp : 1693971288.3111844; tag : fit; duration : 4.630652189254761; nvidia_gpu_0 : 227288
+Early stopping counter 2 of 100
+[2023-09-06 05:34:52,946] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 36 consumed 4.635890245437622 s and 227.28799999999956 J.
+Epoch 38 of 100
+[2023-09-06 05:34:52,948] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.001124
+begin timestamp : 1693971292.948711; tag : fit; duration : 4.626939296722412; nvidia_gpu_0 : 232184
+[2023-09-06 05:34:57,580] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 37 consumed 4.631484746932983 s and 232.1840000000011 J.
+Epoch 39 of 100
+[2023-09-06 05:34:57,582] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.002264
+begin timestamp : 1693971297.582467; tag : fit; duration : 4.633056402206421; nvidia_gpu_0 : 227274
+[2023-09-06 05:35:02,220] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 38 consumed 4.6376848220825195 s and 227.27399999999943 J.
+Epoch 40 of 100
+[2023-09-06 05:35:02,222] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.001623
+begin timestamp : 1693971302.2227612; tag : fit; duration : 4.63564395904541; nvidia_gpu_0 : 227524
+[2023-09-06 05:35:06,862] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 39 consumed 4.640308618545532 s and 227.52399999999943 J.
+Epoch 41 of 100
+[2023-09-06 05:35:06,865] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.001974
+begin timestamp : 1693971306.8652923; tag : fit; duration : 4.61390495300293; nvidia_gpu_0 : 227764
+Early stopping counter 1 of 100
+[2023-09-06 05:35:11,483] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 40 consumed 4.618488550186157 s and 227.76400000000103 J.
+Epoch 42 of 100
+[2023-09-06 05:35:11,486] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.004090
+begin timestamp : 1693971311.4860811; tag : fit; duration : 4.632102012634277; nvidia_gpu_0 : 227761
+[2023-09-06 05:35:16,122] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 41 consumed 4.636819839477539 s and 227.76100000000042 J.
+Epoch 43 of 100
+[2023-09-06 05:35:16,125] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.003217
+begin timestamp : 1693971316.1252866; tag : fit; duration : 4.62206768989563; nvidia_gpu_0 : 228080
+Early stopping counter 1 of 100
+[2023-09-06 05:35:20,751] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 42 consumed 4.626734733581543 s and 228.07999999999993 J.
+Epoch 44 of 100
+[2023-09-06 05:35:20,754] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.000759
+begin timestamp : 1693971320.7542772; tag : fit; duration : 4.635240316390991; nvidia_gpu_0 : 233065
+Early stopping counter 2 of 100
+[2023-09-06 05:35:25,395] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 43 consumed 4.640994310379028 s and 233.0649999999987 J.
+Epoch 45 of 100
+[2023-09-06 05:35:25,399] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.003261
+begin timestamp : 1693971325.3995564; tag : fit; duration : 4.610624551773071; nvidia_gpu_0 : 228291
+[2023-09-06 05:35:30,016] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 44 consumed 4.616878032684326 s and 228.29100000000108 J.
+Epoch 46 of 100
+[2023-09-06 05:35:30,019] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.002679
+begin timestamp : 1693971330.0192084; tag : fit; duration : 4.639629125595093; nvidia_gpu_0 : 228234
+Early stopping counter 1 of 100
+[2023-09-06 05:35:34,663] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 45 consumed 4.644241809844971 s and 228.23400000000038 J.
+Epoch 47 of 100
+[2023-09-06 05:35:34,665] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.000732
+begin timestamp : 1693971334.6657424; tag : fit; duration : 4.615180015563965; nvidia_gpu_0 : 228466
+[2023-09-06 05:35:39,285] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 46 consumed 4.619784593582153 s and 228.46599999999853 J.
+Epoch 48 of 100
+[2023-09-06 05:35:39,287] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.001065
+begin timestamp : 1693971339.287782; tag : fit; duration : 4.618474721908569; nvidia_gpu_0 : 228558
+[2023-09-06 05:35:43,910] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 47 consumed 4.6231043338775635 s and 228.5580000000009 J.
+Epoch 49 of 100
+[2023-09-06 05:35:43,913] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.001042
+begin timestamp : 1693971343.9131641; tag : fit; duration : 4.617315053939819; nvidia_gpu_0 : 228456
+[2023-09-06 05:35:48,539] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 48 consumed 4.621893405914307 s and 228.45600000000013 J.
+Epoch 50 of 100
+[2023-09-06 05:35:48,542] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.000599
+begin timestamp : 1693971348.542163; tag : fit; duration : 4.614349365234375; nvidia_gpu_0 : 228505
+Early stopping counter 1 of 100
+[2023-09-06 05:35:53,162] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 49 consumed 4.620565176010132 s and 228.5049999999992 J.
+Epoch 51 of 100
+[2023-09-06 05:35:53,165] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.000884
+begin timestamp : 1693971353.1652632; tag : fit; duration : 4.616996765136719; nvidia_gpu_0 : 228761
+[2023-09-06 05:35:57,790] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 50 consumed 4.624791622161865 s and 228.76100000000042 J.
+Epoch 52 of 100
+[2023-09-06 05:35:57,792] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.002054
+begin timestamp : 1693971357.7923412; tag : fit; duration : 4.6153388023376465; nvidia_gpu_0 : 228561
+Early stopping counter 1 of 100
+[2023-09-06 05:36:02,412] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 51 consumed 4.619950294494629 s and 228.5609999999997 J.
+Epoch 53 of 100
+[2023-09-06 05:36:02,414] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.003904
+begin timestamp : 1693971362.4145782; tag : fit; duration : 4.626177549362183; nvidia_gpu_0 : 228360
+[2023-09-06 05:36:07,045] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 52 consumed 4.630785942077637 s and 228.36000000000058 J.
+Epoch 54 of 100
+[2023-09-06 05:36:07,049] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.001392
+begin timestamp : 1693971367.0492647; tag : fit; duration : 4.623382329940796; nvidia_gpu_0 : 228292
+Early stopping counter 1 of 100
+[2023-09-06 05:36:11,677] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 53 consumed 4.629606008529663 s and 228.29199999999946 J.
+Epoch 55 of 100
+[2023-09-06 05:36:11,679] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.000647
+begin timestamp : 1693971371.6795537; tag : fit; duration : 4.61633563041687; nvidia_gpu_0 : 228417
+[2023-09-06 05:36:16,300] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 54 consumed 4.620946168899536 s and 228.41700000000128 J.
+Epoch 56 of 100
+[2023-09-06 05:36:16,302] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.001064
+begin timestamp : 1693971376.302751; tag : fit; duration : 4.619023323059082; nvidia_gpu_0 : 233137
+Early stopping counter 1 of 100
+[2023-09-06 05:36:20,928] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 55 consumed 4.626010417938232 s and 233.1369999999988 J.
+Epoch 57 of 100
+[2023-09-06 05:36:20,931] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.002035
+begin timestamp : 1693971380.9310672; tag : fit; duration : 4.623911380767822; nvidia_gpu_0 : 228237
+[2023-09-06 05:36:25,559] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 56 consumed 4.6286070346832275 s and 228.237000000001 J.
+Epoch 58 of 100
+[2023-09-06 05:36:25,561] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.000944
+begin timestamp : 1693971385.5619504; tag : fit; duration : 4.616241216659546; nvidia_gpu_0 : 228495
+Early stopping counter 1 of 100
+[2023-09-06 05:36:30,182] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 57 consumed 4.620874643325806 s and 228.49499999999898 J.
+Epoch 59 of 100
+[2023-09-06 05:36:30,186] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.000652
+begin timestamp : 1693971390.1867225; tag : fit; duration : 4.6082444190979; nvidia_gpu_0 : 228493
+Early stopping counter 2 of 100
+[2023-09-06 05:36:34,799] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 58 consumed 4.61440634727478 s and 228.4930000000004 J.
+Epoch 60 of 100
+[2023-09-06 05:36:34,801] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.000619
+begin timestamp : 1693971394.8017876; tag : fit; duration : 4.608583450317383; nvidia_gpu_0 : 228529
+[2023-09-06 05:36:39,414] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 59 consumed 4.613193035125732 s and 228.52900000000045 J.
+Epoch 61 of 100
+[2023-09-06 05:36:39,417] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.001299
+begin timestamp : 1693971399.4172075; tag : fit; duration : 4.613131046295166; nvidia_gpu_0 : 228696
+[2023-09-06 05:36:44,034] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 60 consumed 4.6177427768707275 s and 228.6959999999999 J.
+Epoch 62 of 100
+[2023-09-06 05:36:44,037] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.002302
+begin timestamp : 1693971404.0372324; tag : fit; duration : 4.610170125961304; nvidia_gpu_0 : 228722
+Early stopping counter 1 of 100
+[2023-09-06 05:36:48,651] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 61 consumed 4.614775657653809 s and 228.72199999999975 J.
+Epoch 63 of 100
+[2023-09-06 05:36:48,654] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.002009
+begin timestamp : 1693971408.6542788; tag : fit; duration : 4.620579481124878; nvidia_gpu_0 : 228378
+Early stopping counter 2 of 100
+[2023-09-06 05:36:53,279] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 62 consumed 4.625210523605347 s and 228.3780000000006 J.
+Epoch 64 of 100
+[2023-09-06 05:36:53,282] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.001263
+begin timestamp : 1693971413.2821405; tag : fit; duration : 4.6275599002838135; nvidia_gpu_0 : 228384
+Early stopping counter 3 of 100
+[2023-09-06 05:36:57,914] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 63 consumed 4.632230997085571 s and 228.38400000000001 J.
+Epoch 65 of 100
+[2023-09-06 05:36:57,916] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.000694
+begin timestamp : 1693971417.916587; tag : fit; duration : 4.618113994598389; nvidia_gpu_0 : 228872
+Early stopping counter 4 of 100
+[2023-09-06 05:37:02,539] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 64 consumed 4.6227006912231445 s and 228.8719999999994 J.
+Epoch 66 of 100
+[2023-09-06 05:37:02,541] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.002476
+begin timestamp : 1693971422.54158; tag : fit; duration : 4.62748908996582; nvidia_gpu_0 : 228487
+[2023-09-06 05:37:07,173] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 65 consumed 4.632065296173096 s and 228.48699999999917 J.
+Epoch 67 of 100
+[2023-09-06 05:37:07,176] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.001256
+begin timestamp : 1693971427.1770062; tag : fit; duration : 4.618014574050903; nvidia_gpu_0 : 228465
+[2023-09-06 05:37:11,801] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 66 consumed 4.623703241348267 s and 228.46500000000015 J.
+Epoch 68 of 100
+[2023-09-06 05:37:11,803] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.001078
+begin timestamp : 1693971431.8036087; tag : fit; duration : 4.617749214172363; nvidia_gpu_0 : 228587
+Early stopping counter 1 of 100
+[2023-09-06 05:37:16,425] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 67 consumed 4.622323036193848 s and 228.58700000000135 J.
+Epoch 69 of 100
+[2023-09-06 05:37:16,428] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.002729
+begin timestamp : 1693971436.4281723; tag : fit; duration : 4.6325907707214355; nvidia_gpu_0 : 228337
+Early stopping counter 2 of 100
+[2023-09-06 05:37:21,065] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 68 consumed 4.6371705532073975 s and 228.33699999999953 J.
+Epoch 70 of 100
+[2023-09-06 05:37:21,067] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.001228
+begin timestamp : 1693971441.0676448; tag : fit; duration : 4.616726875305176; nvidia_gpu_0 : 228463
+Early stopping counter 3 of 100
+[2023-09-06 05:37:25,688] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 69 consumed 4.621397972106934 s and 228.46299999999974 J.
+Epoch 71 of 100
+[2023-09-06 05:37:25,691] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.000743
+begin timestamp : 1693971445.691303; tag : fit; duration : 4.6158130168914795; nvidia_gpu_0 : 228538
+[2023-09-06 05:37:30,311] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 70 consumed 4.620400428771973 s and 228.53800000000047 J.
+Epoch 72 of 100
+[2023-09-06 05:37:30,314] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.001623
+begin timestamp : 1693971450.314077; tag : fit; duration : 4.616183519363403; nvidia_gpu_0 : 228487
+[2023-09-06 05:37:34,934] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 71 consumed 4.620847463607788 s and 228.48699999999917 J.
+Epoch 73 of 100
+[2023-09-06 05:37:34,937] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.001769
+begin timestamp : 1693971454.9371579; tag : fit; duration : 4.61229133605957; nvidia_gpu_0 : 228674
+[2023-09-06 05:37:39,554] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 72 consumed 4.616918087005615 s and 228.6740000000009 J.
+Epoch 74 of 100
+[2023-09-06 05:37:39,556] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.000873
+begin timestamp : 1693971459.5563743; tag : fit; duration : 4.615910530090332; nvidia_gpu_0 : 223667
+Early stopping counter 1 of 100
+[2023-09-06 05:37:44,177] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 73 consumed 4.620532751083374 s and 233.57500000000073 J.
+Epoch 75 of 100
+[2023-09-06 05:37:44,180] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.001832
+begin timestamp : 1693971464.1802223; tag : fit; duration : 4.614783048629761; nvidia_gpu_0 : 228508
+Early stopping counter 2 of 100
+[2023-09-06 05:37:48,799] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 74 consumed 4.619332313537598 s and 228.507999999998 J.
+Epoch 76 of 100
+[2023-09-06 05:37:48,801] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.000662
+begin timestamp : 1693971468.8018622; tag : fit; duration : 4.626484394073486; nvidia_gpu_0 : 228466
+[2023-09-06 05:37:53,432] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 75 consumed 4.6310875415802 s and 228.46600000000035 J.
+Epoch 77 of 100
+[2023-09-06 05:37:53,435] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.001317
+begin timestamp : 1693971473.4355795; tag : fit; duration : 4.630949258804321; nvidia_gpu_0 : 228476
+[2023-09-06 05:37:58,071] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 76 consumed 4.635590553283691 s and 228.47599999999875 J.
+Epoch 78 of 100
+[2023-09-06 05:37:58,073] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.000676
+begin timestamp : 1693971478.0733805; tag : fit; duration : 4.630150556564331; nvidia_gpu_0 : 228427
+[2023-09-06 05:38:02,709] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 77 consumed 4.636073112487793 s and 228.42700000000332 J.
+Epoch 79 of 100
+[2023-09-06 05:38:02,711] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.001097
+begin timestamp : 1693971482.711887; tag : fit; duration : 4.6231749057769775; nvidia_gpu_0 : 228665
+Early stopping counter 1 of 100
+[2023-09-06 05:38:07,339] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 78 consumed 4.627843379974365 s and 228.66499999999724 J.
+Epoch 80 of 100
+[2023-09-06 05:38:07,341] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.000500
+begin timestamp : 1693971487.3419778; tag : fit; duration : 4.624326229095459; nvidia_gpu_0 : 228816
+[2023-09-06 05:38:11,970] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 79 consumed 4.628941774368286 s and 228.81600000000253 J.
+Epoch 81 of 100
+[2023-09-06 05:38:11,974] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.000875
+begin timestamp : 1693971491.9749026; tag : fit; duration : 4.621787786483765; nvidia_gpu_0 : 228489
+[2023-09-06 05:38:16,601] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 80 consumed 4.6281280517578125 s and 228.48899999999776 J.
+Epoch 82 of 100
+[2023-09-06 05:38:16,603] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.000585
+begin timestamp : 1693971496.6035461; tag : fit; duration : 4.6255011558532715; nvidia_gpu_0 : 228597
+Early stopping counter 1 of 100
+[2023-09-06 05:38:21,233] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 81 consumed 4.6301000118255615 s and 228.59700000000157 J.
+Epoch 83 of 100
+[2023-09-06 05:38:21,237] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.001266
+begin timestamp : 1693971501.2375298; tag : fit; duration : 4.62243390083313; nvidia_gpu_0 : 228393
+Early stopping counter 2 of 100
+[2023-09-06 05:38:25,864] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 82 consumed 4.628580808639526 s and 233.41799999999785 J.
+Epoch 84 of 100
+[2023-09-06 05:38:25,866] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.000549
+begin timestamp : 1693971505.866751; tag : fit; duration : 4.623686790466309; nvidia_gpu_0 : 228543
+[2023-09-06 05:38:30,496] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 83 consumed 4.628223896026611 s and 228.54300000000148 J.
+Epoch 85 of 100
+[2023-09-06 05:38:30,498] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.000631
+begin timestamp : 1693971510.499005; tag : fit; duration : 4.621743679046631; nvidia_gpu_0 : 228429
+[2023-09-06 05:38:35,125] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 84 consumed 4.626407146453857 s and 228.4290000000001 J.
+Epoch 86 of 100
+[2023-09-06 05:38:35,127] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.000673
+begin timestamp : 1693971515.1276383; tag : fit; duration : 4.621290445327759; nvidia_gpu_0 : 228518
+Early stopping counter 1 of 100
+[2023-09-06 05:38:39,753] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 85 consumed 4.625858306884766 s and 228.51800000000003 J.
+Epoch 87 of 100
+[2023-09-06 05:38:39,757] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.000810
+begin timestamp : 1693971519.7574081; tag : fit; duration : 4.6246254444122314; nvidia_gpu_0 : 228582
+[2023-09-06 05:38:44,387] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 86 consumed 4.632002830505371 s and 228.58199999999852 J.
+Epoch 88 of 100
+[2023-09-06 05:38:44,390] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.000278
+begin timestamp : 1693971524.3901286; tag : fit; duration : 4.618705749511719; nvidia_gpu_0 : 228519
+Early stopping counter 1 of 100
+[2023-09-06 05:38:49,013] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 87 consumed 4.623344898223877 s and 228.51900000000023 J.
+Epoch 89 of 100
+[2023-09-06 05:38:49,017] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.001873
+begin timestamp : 1693971529.0173628; tag : fit; duration : 4.620698690414429; nvidia_gpu_0 : 228568
+[2023-09-06 05:38:53,642] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 88 consumed 4.6269917488098145 s and 228.5679999999993 J.
+Epoch 90 of 100
+[2023-09-06 05:38:53,645] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.001130
+begin timestamp : 1693971533.6454005; tag : fit; duration : 4.628737449645996; nvidia_gpu_0 : 228503
+Early stopping counter 1 of 100
+[2023-09-06 05:38:58,280] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 89 consumed 4.635313272476196 s and 228.5030000000006 J.
+Epoch 91 of 100
+[2023-09-06 05:38:58,282] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.001543
+begin timestamp : 1693971538.2829447; tag : fit; duration : 4.621432065963745; nvidia_gpu_0 : 228581
+Early stopping counter 2 of 100
+[2023-09-06 05:39:02,909] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 90 consumed 4.626065969467163 s and 233.56600000000253 J.
+Epoch 92 of 100
+[2023-09-06 05:39:02,912] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.001042
+begin timestamp : 1693971542.9122632; tag : fit; duration : 4.618422985076904; nvidia_gpu_0 : 228638
+Early stopping counter 3 of 100
+[2023-09-06 05:39:07,535] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 91 consumed 4.623028993606567 s and 228.637999999999 J.
+Epoch 93 of 100
+[2023-09-06 05:39:07,537] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.001134
+begin timestamp : 1693971547.5375447; tag : fit; duration : 4.620548248291016; nvidia_gpu_0 : 228489
+[2023-09-06 05:39:12,162] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 92 consumed 4.625109434127808 s and 228.48899999999776 J.
+Epoch 94 of 100
+[2023-09-06 05:39:12,164] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.000998
+begin timestamp : 1693971552.164889; tag : fit; duration : 4.6229777336120605; nvidia_gpu_0 : 228887
+Early stopping counter 1 of 100
+[2023-09-06 05:39:16,792] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 93 consumed 4.627529859542847 s and 228.88700000000244 J.
+Epoch 95 of 100
+[2023-09-06 05:39:16,794] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.000502
+begin timestamp : 1693971556.79469; tag : fit; duration : 4.624087810516357; nvidia_gpu_0 : 228629
+[2023-09-06 05:39:21,423] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 94 consumed 4.629064321517944 s and 228.62900000000081 J.
+Epoch 96 of 100
+[2023-09-06 05:39:21,425] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.000588
+begin timestamp : 1693971561.4260356; tag : fit; duration : 4.615483283996582; nvidia_gpu_0 : 228664
+Early stopping counter 1 of 100
+[2023-09-06 05:39:26,046] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 95 consumed 4.62017035484314 s and 228.66399999999703 J.
+Epoch 97 of 100
+[2023-09-06 05:39:26,051] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.000658
+begin timestamp : 1693971566.051183; tag : fit; duration : 4.615797281265259; nvidia_gpu_0 : 228650
+[2023-09-06 05:39:30,672] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 96 consumed 4.623821258544922 s and 228.65000000000146 J.
+Epoch 98 of 100
+[2023-09-06 05:39:30,674] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.000768
+begin timestamp : 1693971570.674859; tag : fit; duration : 4.616557359695435; nvidia_gpu_0 : 228728
+Early stopping counter 1 of 100
+[2023-09-06 05:39:35,296] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 97 consumed 4.6211793422698975 s and 228.72799999999916 J.
+Epoch 99 of 100
+[2023-09-06 05:39:35,298] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.000523
+begin timestamp : 1693971575.2983153; tag : fit; duration : 4.6170268058776855; nvidia_gpu_0 : 228480
+Early stopping counter 2 of 100
+[2023-09-06 05:39:39,919] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 98 consumed 4.621609687805176 s and 228.47999999999956 J.
+Epoch 100 of 100
+[2023-09-06 05:39:39,922] [ZeusMonitor](energy.py:329) Measurement window 'epoch' started.
+### Beginning Training
+Dev:  cuda:0
+Device:  cuda:0
+# Finished. Training Loss: 0.000538
+begin timestamp : 1693971579.9229832; tag : fit; duration : 4.615273952484131; nvidia_gpu_0 : 228620
+[2023-09-06 05:39:44,543] [ZeusMonitor](energy.py:329) Measurement window 'epoch' ended.
+Epoch 99 consumed 4.620670795440674 s and 228.62000000000262 J.
+One step took 4.620670795440674 s and 228.62000000000262 J on average.
+7.72 minutes
