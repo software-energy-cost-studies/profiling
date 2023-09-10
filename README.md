@@ -1,15 +1,28 @@
 # profiling
 This repository contains the list of instructions and results for profiling of baler (data compression library):
 
+### Dependencies installation:
+```
+pip3 install -r requirements.txt
+```
 
 ### CPU profilers:
 
 #### Profiling using cProfile
 ```
-python3 -m cProfile -o cProfile_train.prof  baler.py --mode train --project profile cpu
-python3 -m cProfile -o cProfile_compress.prof  baler.py --mode compress --project profile cpu
-python3 -m cProfile -o cProfile_decompress.prof  baler.py --mode decompress --project profile cpu
+poetry run python3 -m cProfile -o cpu_profile/cProfile_train.prof  -m  baler --project CMS_workspace CMS_project_v1  --mode train
+poetry run python3 -m cProfile -o cpu_profile/cProfile_compress.prof  -m  baler --project CMS_workspace CMS_project_v1  --mode compress
+poetry run python3 -m cProfile -o cpu_profile/cProfile_decompress.prof  -m  baler --project CMS_workspace CMS_project_v1  --mode decompress
 ```
+Generate the report using Shakeviz
+```
+cd ./cpu_profile
+snakeviz cProfile_train.prof
+snakeviz cProfile_compress.prof 
+snakeviz cProfile_compress.prof 
+```
+
+
 
 #### Scalene provides the easy to read report about the CPU, GPU, memory, and counts (number of memory-expensive operations that appears during copying objects 
 ```
