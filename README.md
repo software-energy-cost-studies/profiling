@@ -65,11 +65,25 @@ tensorboard --logdir=./log
 ### Energy cost estimation using energy meters:
 
 #### Zeus:
+Installation:
+```
+pip install zeus
+```
 ![alt text](https://github.com/software-energy-cost-studies/profiling/blob/30994ba2132905c428a60807ddd894d36e37819e/results/lxplus/gpu/zeus/gpu_energy_zeus.png)
 ![alt text](https://github.com/software-energy-cost-studies/profiling/blob/30994ba2132905c428a60807ddd894d36e37819e/results/lxplus/gpu/zeus/duration_zeus.png)
 
 
 #### CodeCarbon
+Installation:
+```
+pip install codecarbon
+```
+
+```
+from codecarbon import track_emissions
+@track_emissions()
+def your_function_to_track():
+```
 ![alt text](https://github.com/software-energy-cost-studies/profiling/blob/30994ba2132905c428a60807ddd894d36e37819e/results/lxplus/gpu/codecarbon/cpu_code_carbon.png)
 ![alt text](https://github.com/software-energy-cost-studies/profiling/blob/30994ba2132905c428a60807ddd894d36e37819e/results/lxplus/gpu/codecarbon/gpu_energy_code_carbon.png)
 
