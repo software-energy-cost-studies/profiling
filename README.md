@@ -26,9 +26,9 @@ snakeviz cProfile_compress.prof
 
 #### Scalene provides the easy to read report about the CPU, GPU, memory, and counts (number of memory-expensive operations that appears during copying objects 
 ```
-scalene --cpu --gpu --memory baler.py --mode train --project profile cpu
-scalene --cpu --gpu --memory baler.py --mode compress --project profile cpu
-scalene --cpu --gpu --memory baler.py --mode decompress --project profile cpu
+poetry run python3 -m scalene --profile-all baler/baler.py  --project CMS_workspace CMS_project_v1  --mode train
+poetry run python3 -m scalene --profile-all baler/baler.py  --project CMS_workspace CMS_project_v1  --mode decompress
+poetry run python3 -m scalene --profile-all baler/baler.py  --project CMS_workspace CMS_project_v1  --mode compress
 ```
 
 #### py-spy
@@ -67,7 +67,11 @@ tensorboard --logdir=./log
 #### Zeus:
 Installation:
 ```
-pip install zeus
+pip install zeus-ml
+```
+Usage:
+```
+
 ```
 ![alt text](https://github.com/software-energy-cost-studies/profiling/blob/30994ba2132905c428a60807ddd894d36e37819e/results/lxplus/gpu/zeus/gpu_energy_zeus.png)
 ![alt text](https://github.com/software-energy-cost-studies/profiling/blob/30994ba2132905c428a60807ddd894d36e37819e/results/lxplus/gpu/zeus/duration_zeus.png)
