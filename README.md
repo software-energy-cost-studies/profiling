@@ -132,14 +132,13 @@ tracker.stop()
 ![alt text](https://github.com/software-energy-cost-studies/profiling/blob/5c661ced16d7136ca6d466e02cb6bbd9166c4da2/results/lxplus/gpu/eco2ai/duration.png)
 
 ### GPU profilers:
-1. [experiment-impact-tracker](https://github.com/Breakend/experiment-impact-tracker)
-2. [scalene](https://github.com/plasma-umass/scalene)
-3. [PyProf](https://github.com/adityaiitb/PyProf)
-5. [Nvidia-DLProf](https://docs.nvidia.com/deeplearning/frameworks/dlprof-user-guide/)
-6. 
+1. [scalene](https://github.com/plasma-umass/scalene)
+2. [PyProf](https://github.com/adityaiitb/PyProf)
+3. [Nvidia-DLProf](https://docs.nvidia.com/deeplearning/frameworks/dlprof-user-guide/)
 #### lxplus:
+```
  /opt/nvidia/nsight-systems/2023.2.3/bin/nsys  profile  -f true -c cudaProfilerApi  --export sqlite python <code2profile.py>
-
+```
 
 ### List of the framework for energy cost estimation:
 1. [boagent](https://github.com/Boavizta/boagent)
