@@ -71,6 +71,26 @@ pip install zeus-ml
 ```
 Usage:
 ```
+from zeus.monitor import ZeusMontior
+# Time/Energy measurements for four GPUs will begin and end at the same time.
+gpu_indices = [0]
+monitor = ZeusMonitor(gpu_indices)
+
+# Mark the beginning of a measurement window. You can use any string
+# as the window name, but make sure it's unique.
+monitor.begin_window("entire_training")
+
+# Actual work
+#Call the Training function here:
+
+# Mark the end of a measurement window and retrieve the measurement result.
+result = monitor.end_window("entire_training")
+
+# Print the measurement result.
+time_consumed, energy_consumed = prof_result.time, prof_result.energy
+print(f"Training took {time_consumed} seconds.")
+for gpu_idx, gpu_energy in zip(gpu_indices, energy_consumed):
+    print(f"GPU {gpu_idx} consumed {gpu_energy} Joules.")
 
 ```
 ![alt text](https://github.com/software-energy-cost-studies/profiling/blob/30994ba2132905c428a60807ddd894d36e37819e/results/lxplus/gpu/zeus/gpu_energy_zeus.png)
@@ -91,14 +111,35 @@ def your_function_to_track():
 ![alt text](https://github.com/software-energy-cost-studies/profiling/blob/30994ba2132905c428a60807ddd894d36e37819e/results/lxplus/gpu/codecarbon/cpu_code_carbon.png)
 ![alt text](https://github.com/software-energy-cost-studies/profiling/blob/30994ba2132905c428a60807ddd894d36e37819e/results/lxplus/gpu/codecarbon/gpu_energy_code_carbon.png)
 
+#### Eco2AI
+Installation:
+```
+pip install eco2ai
+```
+```
+tracker = eco2ai.Tracker(
+    project_name="baler", 
+    experiment_description="baler_training",
+    file_name="baler_training_emmision.csv"
+    )
 
+tracker.start()
+#Call the function here
+tracker.stop()
+```
+Results of tracking:
+![alt text](https://github.com/software-energy-cost-studies/profiling/blob/30994ba2132905c428a60807ddd894d36e37819e/results/lxplus/gpu/codecarbon/cpu_code_carbon.png)
+![alt text](https://github.com/software-energy-cost-studies/profiling/blob/30994ba2132905c428a60807ddd894d36e37819e/results/lxplus/gpu/codecarbon/gpu_energy_code_carbon.png)
 
 ### GPU profilers:
 1. [experiment-impact-tracker](https://github.com/Breakend/experiment-impact-tracker)
 2. [scalene](https://github.com/plasma-umass/scalene)
 3. [PyProf](https://github.com/adityaiitb/PyProf)
-4. [Nvidia Nsight]()
 5. [Nvidia-DLProf](https://docs.nvidia.com/deeplearning/frameworks/dlprof-user-guide/)
+6. 
+#### lxplus:
+ /opt/nvidia/nsight-systems/2023.2.3/bin/nsys  profile  -f true -c cudaProfilerApi  --export sqlite python <code2profile.py>
+
 
 ### List of the framework for energy cost estimation:
 1. [boagent](https://github.com/Boavizta/boagent)
