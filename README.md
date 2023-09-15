@@ -128,8 +128,8 @@ tracker.start()
 tracker.stop()
 ```
 Results of tracking:
-![alt text](https://github.com/software-energy-cost-studies/profiling/blob/30994ba2132905c428a60807ddd894d36e37819e/results/lxplus/gpu/codecarbon/cpu_code_carbon.png)
-![alt text](https://github.com/software-energy-cost-studies/profiling/blob/30994ba2132905c428a60807ddd894d36e37819e/results/lxplus/gpu/codecarbon/gpu_energy_code_carbon.png)
+![alt text](https://github.com/software-energy-cost-studies/profiling/blob/30994ba2132905c428a60807ddd894d36e37819e/results/lxplus/gpu/eco2ai/co2_emission.png)
+![alt text](https://github.com/software-energy-cost-studies/profiling/blob/30994ba2132905c428a60807ddd894d36e37819e/results/lxplus/gpu/eco2ai/duration.png)
 
 ### GPU profilers:
 1. [experiment-impact-tracker](https://github.com/Breakend/experiment-impact-tracker)
