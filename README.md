@@ -150,9 +150,28 @@ tracker.stop()
 
 
 ### List of the framework for C02 emissions estimation:
+
 1. [green-ai](https://github.com/daviddao/green-ai)
 2. [Codecarbon](https://github.com/mlco2/codecarbon)
 3. [Eco2AI](https://github.com/sb-ai-lab/Eco2AI)
 4. [CarbonAI](https://github.com/Capgemini-Invent-France/CarbonAI)
 5. [carbontracker](https://github.com/lfwa/carbontracker)
 6. [tracarbon](https://github.com/fvaleye/tracarbon)
+
+
+#### Metrics that used for Energy Cost Analysis
+| Metrics | #Definition   | #Link    |
+| :---:   | :---: | :---: |
+| Greeness | Accuracy/(Average number of inferences in each lifecycle * Inference energy cost + Train Energy Cost)   | TODO   |
+| CO2 emission [kg] |  (the power consumption of the hardware (𝑃)) * (the training time (𝑇 )) * (the carbon intensity of the energy grid (𝐼) )  | TODO   |
+| Energy [kWh] | Total Energy Consumed by Program   | TODO   |
+| FLOPS| Number of floating points operation | TODO   |
+| Number of Model Parameters and Data Points| Number of the trainable variables    | TODO   |
+| Run Time [s] | Total Time Spent by Program   | TODO   |
+| PUE (Power Usage Effectiveness) | (Total Facility Power) / (IT Equipment Power) | TODO   |
+
+
+#### Benchmarks and Dataset 
+[1] https://mlcommons.org/
+
+
