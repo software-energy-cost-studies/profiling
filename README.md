@@ -159,7 +159,7 @@ tracker.stop()
 6. [tracarbon](https://github.com/fvaleye/tracarbon)
 
 
-#### Metrics that used for Energy Cost Analysis
+#### Metrics used for Energy Cost Analysis
 | Metrics | #Definition   | #Link    |
 | :---:   | :---: | :---: |
 | Greeness | Accuracy/(Average number of inferences in each lifecycle * Inference energy cost + Train Energy Cost)   | TODO   |
@@ -169,6 +169,29 @@ tracker.stop()
 | Number of Model Parameters and Data Points| Number of the trainable variables    | TODO   |
 | Run Time [s] | Total Time Spent by Program   | TODO   |
 | PUE (Power Usage Effectiveness) | (Total Facility Power) / (IT Equipment Power) | TODO   |
+
+
+### Impact of the Optimizer on the Efficiency and Energy Consumption |Training
+| Optimizer | Greeness   |   CO2 emission    |  Energy (CPU, RAM, GPU)  | FLOPS of Process  |   Run Time [s]/ Wall Time / Clock Time   | PUE (Power Usage Effectiveness)    | Latency / Throughoutput    |
+| :---:   | :---: | :---: |:---:   | :---: | :---: |:---: | :---: |
+| Adam | Greeness   |   CO2 emission    |  Energy (CPU, RAM, GPU)  | FLOPS of Process  |   Run Time [s]/ Wall Time / Clock Time   | PUE (Power Usage Effectiveness)    | Latency / Throughoutput    |
+| Sofia| Greeness   |   CO2 emission    |  Energy (CPU, RAM, GPU)  | FLOPS of Process  |   Run Time [s]/ Wall Time / Clock Time   | PUE (Power Usage Effectiveness)    | Latency / Throughoutput    |
+| Lion | Greeness   |   CO2 emission    |  Energy (CPU, RAM, GPU)  | FLOPS of Process  |   Run Time [s]/ Wall Time / Clock Time   | PUE (Power Usage Effectiveness)    | Latency / Throughoutput    |
+| AdamW| Greeness   |   CO2 emission    |  Energy (CPU, RAM, GPU)  | FLOPS of Process  |   Run Time [s]/ Wall Time / Clock Time   | PUE (Power Usage Effectiveness)    | Latency / Throughoutput    |
+| AdaGrad| Greeness   |   CO2 emission    |  Energy (CPU, RAM, GPU)  | FLOPS of Process  |   Run Time [s]/ Wall Time / Clock Time   | PUE (Power Usage Effectiveness)    | Latency / Throughoutput    |
+
+
+### Impact of the Compiler and Model Representation on the Efficiency and Energy Consumption |Inference
+
+| Metrics | #Definition   | #Link    |
+| Compiler/Model Format | Greeness   |   CO2 emission    |  Energy (CPU, RAM, GPU)  | FLOPS of Process  |   Run Time [s]/ Wall Time / Clock Time   | PUE (Power Usage Effectiveness)    | Latency / Throughoutput    |
+| :---:   | :---: | :---: |:---:   | :---: | :---: |:---: | :---: |
+| ONNX | Greeness   |   CO2 emission    |  Energy (CPU, RAM, GPU)  | FLOPS of Process  |   Run Time [s]/ Wall Time / Clock Time   | PUE (Power Usage Effectiveness)    | Latency / Throughoutput    |
+| TorchScript | Greeness   |   CO2 emission    |  Energy (CPU, RAM, GPU)  | FLOPS of Process  |   Run Time [s]/ Wall Time / Clock Time   | PUE (Power Usage Effectiveness)    | Latency / Throughoutput    |
+| FX Tracing | Greeness   |   CO2 emission    |  Energy (CPU, RAM, GPU)  | FLOPS of Process  |   Run Time [s]/ Wall Time / Clock Time   | PUE (Power Usage Effectiveness)    | Latency / Throughoutput    |
+| Dynamo| Greeness   |   CO2 emission    |  Energy (CPU, RAM, GPU)  | FLOPS of Process  |   Run Time [s]/ Wall Time / Clock Time   | PUE (Power Usage Effectiveness)    | Latency / Throughoutput    |
+| TensorRT| Greeness   |   CO2 emission    |  Energy (CPU, RAM, GPU)  | FLOPS of Process  |   Run Time [s]/ Wall Time / Clock Time   | PUE (Power Usage Effectiveness)    | Latency / Throughoutput    |
+| Glow| Greeness   |   CO2 emission    |  Energy (CPU, RAM, GPU)  | FLOPS of Process  |   Run Time [s]/ Wall Time / Clock Time   | PUE (Power Usage Effectiveness)    | Latency / Throughoutput    |
 
 
 #### Benchmarks and Dataset 
