@@ -11,4 +11,5 @@ zeus-ml==0.7.0
 codecarbon==2.3.1
 eco2ai==0.3.8
 pthflops==0.4.2
+perun==0.6.2
 
