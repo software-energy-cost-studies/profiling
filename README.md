@@ -1,6 +1,11 @@
 # profiling
 This repository contains the list of instructions and results for profiling of baler (data compression library):
 
+### Summary of the Energy Cost Estimation and Profiling:
+[Presentation of the results](https://github.com/software-energy-cost-studies/profiling/blob/main/results/presentation/Estimation%20of%20the%20energy%20cost%20and%20efficiency%20of%20the%20HEP%20data%20compression%20ML%20algorithm%20(Baler)_2.pdf)
+
+
+
 ### Dependencies installation:
 ```
 pip3 install -r requirements.txt
